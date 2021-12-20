@@ -7,6 +7,7 @@ public class Teste {
         for (String s : data) {
             System.out.println(s);
             System.out.println("Hello World");
+            //teste
         }
         for (String s : data){
             System.console().writer().println(s);
