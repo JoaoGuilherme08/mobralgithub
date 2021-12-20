@@ -6,6 +6,7 @@ public class Teste {
         "\u2514\u2500\u2500\u2500\u2500\u2500\u2518" };
         for (String s : data) {
             System.out.println(s);
+            System.out.println("Hello World");
         }
         for (String s : data){
             System.console().writer().println(s);
